@@ -19,3 +19,13 @@ This project is mainly created for **learning and practice purposes** to underst
 
 ## Project Structure
 
+Calculator/
+│
+├── simple_calculator.py # Basic calculator (terminal-based)
+├── advanced_calculator.py # Advanced calculator
+├── gui.py # GUI-based calculator
+├── simple_ui.py # Simple UI calculator
+├── stack.py # Stack implementation
+├── test_valid_cases.py # Test cases
+├── validTestCases2.txt # Input test data
+├── README.md # Project documentation
