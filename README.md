@@ -18,9 +18,8 @@ This project is mainly created for **learning and practice purposes** to underst
 ---
 
 ## Project Structure
-
+```text
 Calculator/
-│
 ├── simple_calculator.py    
 ├── advanced_calculator.py  
 ├── gui.py                  
