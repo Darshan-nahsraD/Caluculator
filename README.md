@@ -21,11 +21,12 @@ This project is mainly created for **learning and practice purposes** to underst
 
 Calculator/
 │
-├── simple_calculator.py # Basic calculator (terminal-based)
-├── advanced_calculator.py # Advanced calculator
-├── gui.py # GUI-based calculator
-├── simple_ui.py # Simple UI calculator
-├── stack.py # Stack implementation
-├── test_valid_cases.py # Test cases
-├── validTestCases2.txt # Input test data
-├── README.md # Project documentation
+├── simple_calculator.py    
+├── advanced_calculator.py  
+├── gui.py                  
+├── simple_ui.py            
+├── stack.py                
+├── test_valid_cases.py     
+├── validTestCases2.txt     
+├── README.md               
+
