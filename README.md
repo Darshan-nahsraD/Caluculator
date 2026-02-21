@@ -28,4 +28,14 @@ Calculator/
 ├── test_valid_cases.py     
 ├── validTestCases2.txt     
 ├── README.md               
+```
+---
 
+## 🚀 How to Run the Project
+
+### 🔹 Requirements
+- Python 3.x installed on your system
+
+### 🔹 Run Simple Calculator
+```bash
+python simple_calculator.py
