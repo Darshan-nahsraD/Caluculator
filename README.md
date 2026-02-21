@@ -31,11 +31,11 @@ Calculator/
 ```
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
-### 🔹 Requirements
+###  Requirements
 - Python 3.x installed on your system
 
-### 🔹 Run Simple Calculator
+###  Run Simple Calculator
 ```bash
 python simple_calculator.py
